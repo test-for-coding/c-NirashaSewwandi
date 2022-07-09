@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": 10
+    },
+    {
+      "name": "test2",
+      "setup": "",
+      "run": "make test",
+      "input": "1",
+      "output": "hello",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
     }
   ]
 }
