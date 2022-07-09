@@ -4,5 +4,6 @@ a.out:
 clean:
 	rm main
 
-test: ./a.out
+test: 	a.out
+	./a.out
 	
